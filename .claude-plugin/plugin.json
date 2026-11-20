@@ -1,0 +1,8 @@
+{
+  "name": "unstuck",
+  "version": "1.0.0",
+  "description": "Know what to say: decodes messages, shows how replies land from their side, and drafts 2-3 honest options for dating, LinkedIn, school, work, and clients.",
+  "author": { "name": "Zayeed Bin Kabir", "url": "https://zayeedbinkabir.com" },
+  "license": "MIT",
+  "keywords": ["communication", "texting", "dating", "linkedin", "email", "difficult-conversations"]
+}

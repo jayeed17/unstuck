@@ -1,0 +1,11 @@
+{
+  "name": "unstuck",
+  "owner": { "name": "Zayeed Bin Kabir" },
+  "plugins": [
+    {
+      "name": "unstuck",
+      "source": "./",
+      "description": "Know what to say: decodes messages, shows how replies land from their side, and drafts 2-3 honest options for dating, LinkedIn, school, work, and clients."
+    }
+  ]
+}
